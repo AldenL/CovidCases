@@ -1,5 +1,8 @@
 **Covid Cases in NYC Visualization and Analysis**
 
+
+
+
 The line graph below shows the timeline of average confirmed covid cases in NYC.
 ![vis1](/covid_cases_avg.JPG)
 
