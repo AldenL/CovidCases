@@ -1,7 +1,7 @@
-#Covid Cases in NYC Visualization and Analysis
+# Is NYC recovering from COVID-19? Let's take a look.
 
 
-##Covid Cases
+## Covid Cases
 
 The line graph below shows the timeline of average confirmed covid cases in NYC.
 
