@@ -1,5 +1,4 @@
-# Covid Cases
-
+# Covid Cases in NYC Visualization and Analysis
 
 ## Covid Cases
 
