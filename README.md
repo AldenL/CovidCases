@@ -1,3 +1,3 @@
-Covid Cases in NYC
+**Covid Cases in NYC**
 
 
