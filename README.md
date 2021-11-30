@@ -14,7 +14,7 @@ The line graph below shows the timeline of average confirmed covid cases in NYC.
 
 
 
-##Covid Vaccination
+## Covid Vaccination
 
 The line graph below shows the timeline of average vaccination rate in NYC.
 
