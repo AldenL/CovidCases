@@ -1,4 +1,4 @@
-# Is NYC recovering from COVID-19? Let's take a look.
+# Covid Cases
 
 
 ## Covid Cases
