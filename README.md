@@ -8,7 +8,7 @@ This data science project aims to compile information on covid cases in NYC in t
 
 ### Covid Cases Over The Course of the Pandemic
 
-The line graph below shows the timeline of covid cases in NYC during the pandemic.
+The line graph below shows the timeline of covid cases in NYC during the pandemic. We can see that at the beginning of the pandemic in February 2020 there was a spike in covid cases, but then when strict lockdown measures were implemented, cases decreased drastically. However, during the holiday season and especially New Year's between December 2020 and January 2021, people began to ignore lockdown measures and cases inreased and peaked at 6953 cases in a day on January 4, 2021. After February 2021, people began to get vaccinated and cases dropped once again. However in August 2021, [https://www.governor.ny.gov/news/governor-cuomo-announces-gyms-and-fitness-centers-can-reopen-starting-august-24](Governor Andrew M. Cuomo began to ease the lockdown restrictions and reopen NYC), and we can see covid cases begin to increase again. 
 
 ![graph](graphs/TrendDataCovid.png)
 
