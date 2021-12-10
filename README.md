@@ -1,6 +1,7 @@
+![vis1](graphs/frontimg.jpg)
 # Covid Cases in NYC Visualization and Analysis
 
-
+## Overview
 This data science project aims to compile information on covid cases in NYC in the past couple months and show the change in cases before and after the easing of lookdown and restrictions. 
 
 ## Covid Cases Over The Course of the Pandemic
