@@ -169,8 +169,21 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
+
+
+
+
+
+
 ### Pie Chart of Cases By Borough
 ![vis2](graphs/CasesByBoroughPie.png)
+
+
+
+
+
+
+
 
 
 
