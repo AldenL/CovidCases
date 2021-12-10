@@ -29,7 +29,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 ### Linear Regression on Vaccine and Cases
 
-Using linear regression on vaccine and cases. As you can see, the model has decent accuracy against the testing data of only 0.60535 or 61% accuracy. As well as a high Mean Squared Error of 928685 and a correlation coefficient of -0.00026e7 or -2600.
+Using linear regression with vaccine as independent variable and covid cases as dependednt variable. As you can see, the model has decent accuracy against the testing data of only 0.60535 or 61% accuracy. As well as a high Mean Squared Error of 928685 and a correlation coefficient of -0.00026e7 or -2600.
 
 ![graph](graphs/linearvaccinemodel.png)
 
@@ -43,7 +43,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 ### Linear Regression on Vaccine and Dates Over Time
 
-Using linear regression on cases and dates over time. As you can see, the model has a fairly low accuracy against the testing data of only 0.49506 or 50% accuracy. As well as a high Mean Squared Error of 979224 and a correlation coefficient of -9.20746.
+Using linear regression with dates over time as independent varaiable and covid cases as dependent variable. As you can see, the model has a fairly low accuracy against the testing data of only 0.49506 or 50% accuracy. As well as a high Mean Squared Error of 979224 and a correlation coefficient of -9.20746.
 
 ![graph](graphs/lineardatemodel.png)
 
@@ -60,6 +60,8 @@ Before performing multi linear regression we first check if a multi linear relat
 
 #### Multi Linear Regression Between Covid Cases and Vaccination, Dates Over Time
 
+After performing multi linear regression with vaccine and dates as our independent variables and covid cases as the dependent variable to be predicted. we can see that we have a good R-Squared score of 0.71146 or 71% accuracy in our training model against the testing data of vaccinations and date over time. The coefficient for dates is 21.36737 and the coefficient for vaccines are -0.00075e7 or -7500 and our MSE is 732391.
+
 ![graph](graphs/MultiLinearRegress.png)
 
 
@@ -67,14 +69,23 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 ### Line Graph of Cases By Borough
+
+Below is a line chart of all cases by each NYC borough. As we can see, Brooklyn and Queens make up a majority of the cases.
+
 ![graph](graphs/CasesByBoroughLine.png)
 
 
 ### Pie Chart of Cases By Borough
+
+The pie chart further shows how many covid cases occur in Brooklyn and Queens with percentages of 30.42% and 28.36% respectively or a total of 58.78% of the covid cases in NYC. This may be due to Brooklyn and Queens being suburban areas where people are more likely to not wear masks and follow covid protocols. Unlike in Manhattan, where even though it is more population dense, people are more cautious by wearing masks and strictly following protocols.
+
 ![graph](graphs/CasesByBoroughPie.png)
 
 
 ### Map of Cases By MODZCTA
+
+Below is a folium map of NYC split into MODZCTA, which are essentially modified ZIP codes used by the NYC Health Department. The covid cases in each MODZCTA is displayed in red.
+
 ![graph](graphs/mapBorough.JPG)
 
 
