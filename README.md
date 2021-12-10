@@ -8,7 +8,7 @@ This data science project aims to compile information on covid cases in NYC in t
 
 ### Covid Cases Over The Course of the Pandemic
 
-The line graph below shows the timeline of covid cases in NYC during the pandemic. We can see that at the beginning of the pandemic in February 2020 there was a spike in covid cases, but then when strict lockdown measures were implemented, cases decreased drastically. However, during the holiday season and especially New Year's between December 2020 and January 2021, people began to ignore lockdown measures and cases inreased and peaked at 6953 cases in a day on January 4, 2021. After February 2021, people began to get vaccinated and cases dropped once again. However in August 2021,[Governor Andrew M. Cuomo began to ease the lockdown restrictions and reopen NYC](https://www.governor.ny.gov/news/governor-cuomo-announces-gyms-and-fitness-centers-can-reopen-starting-august-24), and we can see covid cases begin to increase again. 
+The line graph below shows the timeline of covid cases in NYC during the pandemic. We can see that at the beginning of the pandemic in February 2020 there was a spike in covid cases, but then when strict lockdown measures were implemented, cases decreased drastically. However, during the holiday season and especially New Year's between December 2020 and January 2021, people began to ignore lockdown measures and cases inreased and peaked at 6953 cases in a day on January 4, 2021. After February 2021, people began to get vaccinated and cases dropped once again. However in August 2021, [Governor Andrew M. Cuomo began to ease the lockdown restrictions and reopen NYC](https://www.governor.ny.gov/news/governor-cuomo-announces-gyms-and-fitness-centers-can-reopen-starting-august-24) and we can see covid cases begin to increase again. 
 
 ![graph](graphs/TrendDataCovid.png)
 
@@ -22,7 +22,7 @@ The line graph below shows the timeline of covid cases and deaths in NYC during 
 
 ### Linear Relationship Between Vaccination and Covid Cases
 
-Before performing linear regression we first check if a linear relationship exists between vaccination and covid cases. As we can see their is a correlation between the two.
+Before performing linear regression we first check if a linear relationship exists between vaccination and covid cases. As we can see their is a correlation between the two. As more people became vaccinated, we can see a linear decrease in covid cases in NYC.
 
 ![graph](graphs/CasesVaccineRelation.png)
 
@@ -36,7 +36,7 @@ Using linear regression on vaccine and cases.
 
 ### Linear Relationship Between Covid Cases and Dates Over Time
 
-Before performing linear regression we first check if a linear relationship exists with covid cases and dates over time. As we can see their is a correlation between the two.
+Before performing linear regression we first check if a linear relationship exists with covid cases and dates over time. As we can see their is a correlation between the two. Over time, we can see a fairly linear decrease in covid cases in NYC.
 
 ![graph](graphs/CasesDateRelation.png)
 
@@ -50,7 +50,7 @@ Using linear regression on cases and dates over time.
 
 #### Multi Linear Relationship Between Covid Cases and Vaccination, Dates Over Time
 
-Before performing multi linear regression we first check if a multi linear relationship exists between dates, vaccines and covid cases
+Before performing multi linear regression we first check if a multi linear relationship exists between vaccines and dates over time to covid cases. We can see that over time as more people became vaccinated, covid cases decreased. Additionally, for this analysis datetime needed to be converted to ordinal date format.
 
 ![graph](graphs/MultiLinearRelation.png)
 
