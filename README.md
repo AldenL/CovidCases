@@ -99,7 +99,7 @@ Using linear regression on cases and dates over time.
 
 
 
-### Multi Linear Relationship Between Covid Cases and Vaccination, Dates Over Time
+#### Multi Linear Relationship Between Covid Cases and Vaccination, Dates Over Time
 
 Before performing multi linear regression we first check if a multi linear relationship exists between dates, vaccines and covid cases
 
@@ -128,7 +128,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-### Multi Linear Regression Between Covid Cases and Vaccination, Dates Over Time
+#### Multi Linear Regression Between Covid Cases and Vaccination, Dates Over Time
 
 ![graph](graphs/MultiLinearRegress.png)
 
