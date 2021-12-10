@@ -205,12 +205,12 @@ In conclusion, according to the visualizations and linear regression analysis pe
 
 
 # Citation
-Data Sources:
+#### Data Sources:
 https://github.com/nychealth/covid-vaccine-data/blob/main/doses/doses-by-day.csv 
 https://github.com/nychealth/coronavirus-data/blob/master/totals/data-by-modzcta.csv 
 https://github.com/nychealth/coronavirus-data/blob/master/trends/data-by-day.csv
 data/blob/master/Geography-resources/MODZCTA_2010_WGS1984.geo.json
 
-Additional Resources:
+#### Additional Resources:
 https://stackoverflow.com/questions/65888553/fitting-a-line-through-3d-x-y-z-scatter-plot-data 
 https://stackoverflow.com/questions/51457738/animating-a-3d-scatterplot-with-matplotlib-to-gif-ends-up-empty, https://github.com/nychealth/coronavirus-
