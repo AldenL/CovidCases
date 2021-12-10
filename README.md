@@ -1,7 +1,7 @@
 ![front](graphs/frontimg.jpg)
 
 # Overview
-This data science project aims to compile information on covid cases in NYC in the past couple months and show the change in cases before and after the easing of lockdown and restrictions. This project uses NYC public data information on covid to better visualize the effects of NYC easing lockdown amid vaccine hesitancy and the emergence of covid variants like Delta and Omicron.
+The goal of this data science project is to compile information on covid cases in NYC in the past couple months and show the change in cases before and after the easing of lockdown and restrictions. This project uses NYC public data information on covid to analyze the relationships between vaccinations, dates and covid cases. This project also aims to better visualize the effects of NYC easing lockdown amid vaccine hesitancy and the emergence of covid variants like Delta and Omicron.
 
 
 # Covid Cases in NYC Visualization and Analysis
