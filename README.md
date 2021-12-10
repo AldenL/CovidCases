@@ -1,11 +1,11 @@
 ![vis1](graphs/frontimg.jpg)
-# Covid Cases in NYC Visualization and Analysis
 
-## Overview
+# Overview
 This data science project aims to compile information on covid cases in NYC in the past couple months and show the change in cases before and after the easing of lookdown and restrictions. 
 
 
 # Data
+# Covid Cases in NYC Visualization and Analysis
 ## Covid Cases Over The Course of the Pandemic
 
 The line graph below shows the timeline of average confirmed covid cases in NYC during the pandemic.
