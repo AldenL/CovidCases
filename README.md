@@ -8,7 +8,7 @@ This data science project aims to compile information on covid cases in NYC in t
 The line graph below shows the timeline of average confirmed covid cases in NYC.
 
 
-![vis1](/covid_cases_avg.JPG)
+![vis1](graphs/MultiLinearRelation.gif)
 
 
 
@@ -21,4 +21,4 @@ The line graph below shows the timeline of average confirmed covid cases in NYC.
 The line graph below shows the timeline of average vaccination rate in NYC.
 
 
-![vis2](/covid_vacc_admin.JPG)
+![vis2](graphs/MultiLinearRegress.gif)
