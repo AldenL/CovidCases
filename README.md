@@ -6,7 +6,7 @@ This data science project aims to compile information on covid cases in NYC in t
 
 # Covid Cases in NYC Visualization and Analysis
 
-## Covid Cases Over The Course of the Pandemic
+### Covid Cases Over The Course of the Pandemic
 
 The line graph below shows the timeline of covid cases in NYC during the pandemic.
 
@@ -22,7 +22,7 @@ The line graph below shows the timeline of covid cases in NYC during the pandemi
 
 
 
-## Covid Cases and Deaths Over The Course of the Pandemic
+### Covid Cases and Deaths Over The Course of the Pandemic
 
 The line graph below shows the timeline of covid cases and deaths in NYC during the pandemic.
 
@@ -37,7 +37,7 @@ The line graph below shows the timeline of covid cases and deaths in NYC during 
 
 
 
-## Linear Relationship Between Vaccination and Covid Cases
+### Linear Relationship Between Vaccination and Covid Cases
 
 Before performing linear regression we first check if a linear relationship exists between vaccination and covid cases. As we can see their is a correlation between the two.
 
@@ -52,7 +52,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 
 
-## Linear Regression on Vaccine and Cases
+### Linear Regression on Vaccine and Cases
 
 Using linear regression on vaccine and cases.
 
@@ -66,7 +66,7 @@ Using linear regression on vaccine and cases.
 
 
 
-## Linear Relationship Between Covid Cases and Dates Over Time
+### Linear Relationship Between Covid Cases and Dates Over Time
 
 Before performing linear regression we first check if a linear relationship exists with covid cases and dates over time. As we can see their is a correlation between the two.
 
@@ -84,7 +84,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 
 
-## Linear Regression on Vaccine and Dates Over Time
+### Linear Regression on Vaccine and Dates Over Time
 
 Using linear regression on cases and dates over time.
 
@@ -99,7 +99,7 @@ Using linear regression on cases and dates over time.
 
 
 
-## Multi Linear Relationship Between Covid Cases and Vaccination, Dates Over Time
+### Multi Linear Relationship Between Covid Cases and Vaccination, Dates Over Time
 
 Before performing multi linear regression we first check if a multi linear relationship exists between dates, vaccines and covid cases
 
@@ -128,7 +128,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-## Multi Linear Regression Between Covid Cases and Vaccination, Dates Over Time
+### Multi Linear Regression Between Covid Cases and Vaccination, Dates Over Time
 
 ![vis2](graphs/MultiLinearRegress.png)
 
@@ -154,7 +154,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-## Line Graph of Cases By Borough
+### Line Graph of Cases By Borough
 ![vis2](graphs/CasesByBoroughLine.png)
 
 
@@ -169,7 +169,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-## Pie Chart of Cases By Borough
+### Pie Chart of Cases By Borough
 ![vis2](graphs/CasesByBoroughPie.png)
 
 
