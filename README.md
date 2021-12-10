@@ -4,11 +4,11 @@
 This data science project aims to compile information on covid cases in NYC in the past couple months and show the change in cases before and after the easing of lookdown and restrictions. 
 
 
-# Data
 # Covid Cases in NYC Visualization and Analysis
+
 ## Covid Cases Over The Course of the Pandemic
 
-The line graph below shows the timeline of average confirmed covid cases in NYC during the pandemic.
+The line graph below shows the timeline of covid cases in NYC during the pandemic.
 
 ![vis1](graphs/TrendDataCovid.png)
 
@@ -24,6 +24,8 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 ## Covid Cases and Deaths Over The Course of the Pandemic
 
+The line graph below shows the timeline of covid cases and deaths in NYC during the pandemic.
+
 ![vis1](graphs/CasesOverlay.png)
 
 
@@ -35,7 +37,9 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-## Before performing linear regression we first check if a linear relationship exists between vaccination and covid cases 
+## Linear Relationship Between Vaccination and Covid Cases
+
+Before performing linear regression we first check if a linear relationship exists between vaccination and covid cases. As we can see their is a correlation between the two.
 
 ![vis1](graphs/CasesVaccineRelation.png)
 
@@ -48,7 +52,9 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-## Linear regression of Vaccine and Cases
+## Linear Regression on Vaccine and Cases
+
+Using linear regression on vaccine and cases.
 
 ![vis1](graphs/linearvaccinemodel.png)
 
@@ -60,7 +66,9 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-## Before performing linear regression we first check if a linear relationship exists between dates and covid cases 
+## Linear Relationship Between Covid Cases and Dates Over Time
+
+Before performing linear regression we first check if a linear relationship exists with covid cases and dates over time. As we can see their is a correlation between the two.
 
 ![vis1](graphs/CasesDateRelation.png)
 
@@ -76,7 +84,9 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-## Linear regression of dates and Cases
+## Linear Regression on Vaccine and Dates Over Time
+
+Using linear regression on cases and dates over time.
 
 ![vis1](graphs/lineardatemodel.png)
 
@@ -89,7 +99,9 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-## Before performing multi linear regression we first check if a multi linear relationship exists between dates, vaccines and covid cases 
+## Multi Linear Relationship Between Covid Cases and Vaccination, Dates Over Time
+
+Before performing multi linear regression we first check if a multi linear relationship exists between dates, vaccines and covid cases
 
 ![vis1](graphs/MultiLinearRelation.png)
 
@@ -116,7 +128,7 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-## Multi Linear regression of dates,vaccines and Cases
+## Multi Linear Regression Between Covid Cases and Vaccination, Dates Over Time
 
 ![vis2](graphs/MultiLinearRegress.png)
 
@@ -142,7 +154,7 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-## Line graph of cases by borough
+## Line Graph of Cases By Borough
 ![vis2](graphs/CasesByBoroughLine.png)
 
 
@@ -157,7 +169,7 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-## Pie Chart of cases by borough
+## Pie Chart of Cases By Borough
 ![vis2](graphs/CasesByBoroughPie.png)
 
 
