@@ -1,4 +1,4 @@
-![vis1](graphs/frontimg.jpg)
+![front](graphs/frontimg.jpg)
 
 # Overview
 This data science project aims to compile information on covid cases in NYC in the past couple months and show the change in cases before and after the easing of lookdown and restrictions. 
@@ -10,7 +10,7 @@ This data science project aims to compile information on covid cases in NYC in t
 
 The line graph below shows the timeline of covid cases in NYC during the pandemic.
 
-![vis1](graphs/TrendDataCovid.png)
+![graph](graphs/TrendDataCovid.png)
 
 
 
@@ -26,7 +26,7 @@ The line graph below shows the timeline of covid cases in NYC during the pandemi
 
 The line graph below shows the timeline of covid cases and deaths in NYC during the pandemic.
 
-![vis1](graphs/CasesOverlay.png)
+![graph](graphs/CasesOverlay.png)
 
 
 
@@ -41,7 +41,7 @@ The line graph below shows the timeline of covid cases and deaths in NYC during 
 
 Before performing linear regression we first check if a linear relationship exists between vaccination and covid cases. As we can see their is a correlation between the two.
 
-![vis1](graphs/CasesVaccineRelation.png)
+![graph](graphs/CasesVaccineRelation.png)
 
 
 
@@ -56,7 +56,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 Using linear regression on vaccine and cases.
 
-![vis1](graphs/linearvaccinemodel.png)
+![graph](graphs/linearvaccinemodel.png)
 
 
 
@@ -70,7 +70,7 @@ Using linear regression on vaccine and cases.
 
 Before performing linear regression we first check if a linear relationship exists with covid cases and dates over time. As we can see their is a correlation between the two.
 
-![vis1](graphs/CasesDateRelation.png)
+![graph](graphs/CasesDateRelation.png)
 
 
 
@@ -88,7 +88,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 Using linear regression on cases and dates over time.
 
-![vis1](graphs/lineardatemodel.png)
+![graph](graphs/lineardatemodel.png)
 
 
 
@@ -103,7 +103,7 @@ Using linear regression on cases and dates over time.
 
 Before performing multi linear regression we first check if a multi linear relationship exists between dates, vaccines and covid cases
 
-![vis1](graphs/MultiLinearRelation.png)
+![graph](graphs/MultiLinearRelation.png)
 
 
 
@@ -116,7 +116,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-![vis1](graphs/MultiLinearRelation.gif)
+![graph](graphs/MultiLinearRelation.gif)
 
 
 
@@ -130,7 +130,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 ### Multi Linear Regression Between Covid Cases and Vaccination, Dates Over Time
 
-![vis2](graphs/MultiLinearRegress.png)
+![graph](graphs/MultiLinearRegress.png)
 
 
 
@@ -142,7 +142,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-![vis2](graphs/MultiLinearRegress.gif)
+![graph](graphs/MultiLinearRegress.gif)
 
 
 
@@ -155,7 +155,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 ### Line Graph of Cases By Borough
-![vis2](graphs/CasesByBoroughLine.png)
+![graph](graphs/CasesByBoroughLine.png)
 
 
 
@@ -176,7 +176,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 ### Pie Chart of Cases By Borough
-![vis2](graphs/CasesByBoroughPie.png)
+![graph](graphs/CasesByBoroughPie.png)
 
 
 
@@ -195,7 +195,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 ### Map of Cases By MODZCTA
-![vis2](graphs/mapBorough.JPG)
+![graph](graphs/mapBorough.JPG)
 
 
 
