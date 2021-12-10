@@ -194,7 +194,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-### Map of Cases By Borough
+### Map of Cases By MODZCTA
 ![vis2](graphs/mapBorough.JPG)
 
 
