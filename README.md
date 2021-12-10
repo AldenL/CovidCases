@@ -14,14 +14,6 @@ The line graph below shows the timeline of covid cases in NYC during the pandemi
 
 
 
-
-
-
-
-
-
-
-
 ### Covid Cases and Deaths Over The Course of the Pandemic
 
 The line graph below shows the timeline of covid cases and deaths in NYC during the pandemic.
@@ -31,23 +23,11 @@ The line graph below shows the timeline of covid cases and deaths in NYC during 
 
 
 
-
-
-
-
-
-
 ### Linear Relationship Between Vaccination and Covid Cases
 
 Before performing linear regression we first check if a linear relationship exists between vaccination and covid cases. As we can see their is a correlation between the two.
 
 ![graph](graphs/CasesVaccineRelation.png)
-
-
-
-
-
-
 
 
 
@@ -62,25 +42,11 @@ Using linear regression on vaccine and cases.
 
 
 
-
-
-
-
 ### Linear Relationship Between Covid Cases and Dates Over Time
 
 Before performing linear regression we first check if a linear relationship exists with covid cases and dates over time. As we can see their is a correlation between the two.
 
 ![graph](graphs/CasesDateRelation.png)
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -92,13 +58,6 @@ Using linear regression on cases and dates over time.
 
 
 
-
-
-
-
-
-
-
 #### Multi Linear Relationship Between Covid Cases and Vaccination, Dates Over Time
 
 Before performing multi linear regression we first check if a multi linear relationship exists between dates, vaccines and covid cases
@@ -107,24 +66,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-
-
-
-
-
-
-
-
-
 ![graph](graphs/MultiLinearRelation.gif)
-
-
-
-
-
-
-
-
 
 
 
@@ -134,23 +76,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-
-
-
-
-
-
-
-
 ![graph](graphs/MultiLinearRegress.gif)
-
-
-
-
-
-
-
-
 
 
 
@@ -159,56 +85,13 @@ Before performing multi linear regression we first check if a multi linear relat
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Pie Chart of Cases By Borough
 ![graph](graphs/CasesByBoroughPie.png)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Map of Cases By MODZCTA
 ![graph](graphs/mapBorough.JPG)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
