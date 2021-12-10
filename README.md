@@ -140,5 +140,32 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 ## Line graph of cases by borough
+![vis2](graphs/CasesByBoroughLine.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Pie Chart of cases by borough
+![vis2](graphs/CasesByBoroughPie.png)
+
+
+
+
+
+
+
+
+
+
+
+
+## Map of nyc borough
