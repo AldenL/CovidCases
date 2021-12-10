@@ -29,7 +29,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 ### Linear Regression on Vaccine and Cases
 
-Using linear regression with vaccine as independent variable and covid cases as dependednt variable. As you can see, the model has decent accuracy against the testing data of only 0.60535 or 61% accuracy. As well as a high Mean Squared Error of 928685 and a correlation coefficient of -0.00026e7 or -2600.
+Using linear regression with vaccine as independent variable and covid cases as dependednt variable. As you can see, the model has decent accuracy against the testing data of only 0.60535 or 61% accuracy. As well as a high Mean Squared Error of 928685 and a correlation coefficient of -0.00026.
 
 ![graph](graphs/linearvaccinemodel.png)
 
@@ -43,7 +43,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 ### Linear Regression on Vaccine and Dates Over Time
 
-Using linear regression with dates over time as independent varaiable and covid cases as dependent variable. As you can see, the model has a fairly low accuracy against the testing data of only 0.49506 or 50% accuracy. As well as a high Mean Squared Error of 979224 and a correlation coefficient of -9.20746.
+Using linear regression with dates over time as independent varaiable and covid cases as dependent variable. As you can see, the model has a fairly low accuracy against the testing data of only 0.49506 or 50% accuracy. As well as a high Mean Squared Error of 979224.
 
 ![graph](graphs/lineardatemodel.png)
 
@@ -60,7 +60,7 @@ Before performing multi linear regression we first check if a multi linear relat
 
 #### Multi Linear Regression Between Covid Cases and Vaccination, Dates Over Time
 
-After performing multi linear regression with vaccine and dates as our independent variables and covid cases as the dependent variable to be predicted. we can see that we have a good R-Squared score of 0.71146 or 71% accuracy in our training model against the testing data of vaccinations and date over time. The coefficient for dates is 21.36737 and the coefficient for vaccines are -0.00075e7 or -7500 and our MSE is 732391.
+After performing multi linear regression with vaccine and dates as our independent variables and covid cases as the dependent variable to be predicted. we can see that we have a good R-Squared score of 0.71146 or 71% accuracy in our training model against the testing data of vaccinations and date over time. The coefficient for dates is 21.36737 and the coefficient for vaccines are -0.00075 and our MSE is 732391.
 
 ![graph](graphs/MultiLinearRegress.png)
 
