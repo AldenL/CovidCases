@@ -96,7 +96,7 @@ I used Python libraries like pandas to load and clean csv data and numpy to calc
 
 # Conclusion
 
-In conclusion, according to the visualizations and linear regression analysis performed, as more and more people get vaccinated over time, covid cases will decrease. However, we can see that the easing of lockdown restrictions affected the number of covid cases and caused an increase.
+In conclusion, according to the visualizations and linear regression analysis performed, as more and more people get vaccinated over time, covid cases will decrease. However, we can see that the easing of lockdown restrictions affected the number of covid cases and caused an increase. We can also conclude that suburban areas like Brooklyn and Queens contribute the most to total covid cases in NYC compared to other boroughs.
 
 
 # Citation
