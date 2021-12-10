@@ -167,5 +167,3 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-
-## Map of nyc borough
