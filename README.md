@@ -5,7 +5,7 @@
 This data science project aims to compile information on covid cases in NYC in the past couple months and show the change in cases before and after the easing of lookdown and restrictions. 
 
 
-#Data
+# Data
 ## Covid Cases Over The Course of the Pandemic
 
 The line graph below shows the timeline of average confirmed covid cases in NYC during the pandemic.
@@ -169,9 +169,9 @@ The line graph below shows the timeline of average confirmed covid cases in NYC 
 
 
 
-#Techniques
+# Techniques
 
-#Citation
+# Citation
 https://github.com/nychealth/covid-vaccine-data/blob/main/doses/doses-by-day.csv 
 https://github.com/nychealth/coronavirus-data/blob/master/totals/data-by-modzcta.csv 
 https://github.com/nychealth/coronavirus-data/blob/master/trends/data-by-day.csv 
