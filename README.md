@@ -13,14 +13,11 @@ The line graph below shows the timeline of covid cases in NYC during the pandemi
 ![graph](graphs/TrendDataCovid.png)
 
 
-
 ### Covid Cases and Deaths Over The Course of the Pandemic
 
 The line graph below shows the timeline of covid cases and deaths in NYC during the pandemic.
 
 ![graph](graphs/CasesOverlay.png)
-
-
 
 
 ### Linear Relationship Between Vaccination and Covid Cases
@@ -30,16 +27,11 @@ Before performing linear regression we first check if a linear relationship exis
 ![graph](graphs/CasesVaccineRelation.png)
 
 
-
-
 ### Linear Regression on Vaccine and Cases
 
 Using linear regression on vaccine and cases.
 
 ![graph](graphs/linearvaccinemodel.png)
-
-
-
 
 
 ### Linear Relationship Between Covid Cases and Dates Over Time
@@ -49,13 +41,11 @@ Before performing linear regression we first check if a linear relationship exis
 ![graph](graphs/CasesDateRelation.png)
 
 
-
 ### Linear Regression on Vaccine and Dates Over Time
 
 Using linear regression on cases and dates over time.
 
 ![graph](graphs/lineardatemodel.png)
-
 
 
 #### Multi Linear Relationship Between Covid Cases and Vaccination, Dates Over Time
@@ -65,9 +55,7 @@ Before performing multi linear regression we first check if a multi linear relat
 ![graph](graphs/MultiLinearRelation.png)
 
 
-
 ![graph](graphs/MultiLinearRelation.gif)
-
 
 
 #### Multi Linear Regression Between Covid Cases and Vaccination, Dates Over Time
@@ -75,24 +63,19 @@ Before performing multi linear regression we first check if a multi linear relat
 ![graph](graphs/MultiLinearRegress.png)
 
 
-
 ![graph](graphs/MultiLinearRegress.gif)
-
 
 
 ### Line Graph of Cases By Borough
 ![graph](graphs/CasesByBoroughLine.png)
 
 
-
 ### Pie Chart of Cases By Borough
 ![graph](graphs/CasesByBoroughPie.png)
 
 
-
 ### Map of Cases By MODZCTA
 ![graph](graphs/mapBorough.JPG)
-
 
 
 # Techniques
