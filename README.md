@@ -22,14 +22,14 @@ The line graph below shows the timeline of covid cases and deaths in NYC during 
 
 ### Linear Relationship Between Vaccination and Covid Cases
 
-Before performing linear regression we first check if a linear relationship exists between vaccination and covid cases. As we can see their is a correlation between the two. As more people became vaccinated, we can see a linear decrease in covid cases in NYC.
+Before performing linear regression we first check if a linear relationship exists between vaccination and covid cases. As we can see their is a correlation between the two. As more people became vaccinated, we can see a linear decrease in covid cases in NYC. Furthermore we can see that the vaccinations on the x-axis are being displayed with scientific notation of 1e7.
 
 ![graph](graphs/CasesVaccineRelation.png)
 
 
 ### Linear Regression on Vaccine and Cases
 
-Using linear regression on vaccine and cases.
+Using linear regression on vaccine and cases. As you can see, the model has decent accuracy against the testing data of only 0.60535 or 61% accuracy. As well as a high Mean Squared Error of 928685 and a correlation coefficient of -0.00026e7 or -2600.
 
 ![graph](graphs/linearvaccinemodel.png)
 
@@ -43,7 +43,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 ### Linear Regression on Vaccine and Dates Over Time
 
-Using linear regression on cases and dates over time.
+Using linear regression on cases and dates over time. As you can see, the model has a fairly low accuracy against the testing data of only 0.49506 or 50% accuracy. As well as a high Mean Squared Error of 979224 and a correlation coefficient of -9.20746.
 
 ![graph](graphs/lineardatemodel.png)
 
