@@ -15,7 +15,7 @@ The line graph below shows the timeline of covid cases in NYC during the pandemi
 
 ### Covid Cases and Deaths Over The Course of the Pandemic
 
-The line graph below shows the timeline of covid cases and deaths in NYC during the pandemic.
+The line graph below shows the timeline of covid cases and deaths in NYC during the pandemic. As we can see, at the beginning of the pandemic covid deaths spiked along with covid cases, but afterwards covid deaths remain relatively low compared to the number of cases. Even during the spike in covid cases during the holiday season, covid deaths did did not increase much, which means that more and more people were recovering from covid.
 
 ![graph](graphs/CasesOverlay.png)
 
