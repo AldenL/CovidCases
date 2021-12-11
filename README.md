@@ -43,7 +43,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 ### Linear Regression on Vaccine and Dates Over Time
 
-Using linear regression with dates over time as independent varaiable and covid cases as dependent variable. As you can see, the model has a fairly low accuracy against the testing data of only 0.49506 or 50% accuracy. As well as a high Mean Squared Error of 979224.
+Using linear regression with dates over time as independent varaiable and covid cases as dependent variable. As you can see, the model has a fairly low accuracy against the testing data of only 0.49506 or 50% accuracy. As well as a Mean Squared Error of 979224.
 
 ![graph](graphs/lineardatemodel.png)
 
