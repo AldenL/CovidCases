@@ -29,7 +29,7 @@ Before performing linear regression we first check if a linear relationship exis
 
 ### Linear Regression on Vaccine and Cases
 
-Using linear regression with vaccine as independent variable and covid cases as dependednt variable. As you can see, the model has decent accuracy against the testing data of only 0.60535 or 61% accuracy. As well as a high Mean Squared Error of 928685 and a correlation coefficient of -0.00026.
+Using linear regression with vaccine as independent variable and covid cases as dependednt variable. As you can see, the model has decent accuracy against the testing data of only 0.60535 or 61% accuracy. As well as a Mean Squared Error of 928685 and a correlation coefficient of -0.00026.
 
 ![graph](graphs/linearvaccinemodel.png)
 
